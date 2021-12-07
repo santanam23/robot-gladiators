@@ -188,9 +188,6 @@ var getPlayerName = function() {
   return name;
 };
 
-/* END GAME FUNCTIONS */
-
-
 //player Information
 var playerInfo = {
   name: getPlayerName(),
